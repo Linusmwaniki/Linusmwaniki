@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Linus mwaniki
-- 👀 I’m interested in software development.
+- 👀 I’m interested in operating systems.
 - 🌱 I’m currently learning programming of embedded systems with C programming language.
 - 💞️ I’m looking to collaborate on many future projects.
 - 📫 How to reach me: chombalinus02@students.uonbi.ac.ke
